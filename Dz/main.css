@@ -1,0 +1,48 @@
+body{
+font-family: Areal,Tahoma;
+font-size: 15px;
+}
+
+
+h1 {
+   color: red;
+
+}
+
+.new span{
+
+color: red;
+
+}
+
+.dalshe {
+
+	color: white;
+	background: green;
+}
+
+.ymet{
+
+	color: white;
+	background: green;
+	font-size: 23px;
+	padding: 40px;
+}
+
+.list1{
+color: black;
+border: 10px black;
+background: white;
+font-size: 20px;
+}
+
+.block{
+	color: white;
+	width: 100px;
+	height: 75px;
+    background: blue;
+}
+
+.new{
+  
+}
